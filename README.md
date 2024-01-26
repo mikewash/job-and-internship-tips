@@ -31,7 +31,7 @@ If you have applied to multiple jobs and not getting any responses you have to i
 If you have applied to multiple jobs and not getting any responses you need to improve the content of your resume. This can usually be done by adding self driven projects and getting your resume re-reviewed.
 
 ### Project Ideas
-[Programming Project Ideas](https://arc.dev/developer-blog/programming-project-ideas/)
+[Project Ideas](https://arc.dev/developer-blog/programming-project-ideas/)
 
 
 If you have applied to multiple jobs and not passing the technical part of the interview you need to at least do over 60 tech problems for SWE and for product management I don't have a magic number but I would keep studying til you get it and do mock interviews with a coach. 
