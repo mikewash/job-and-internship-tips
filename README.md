@@ -23,7 +23,7 @@ Reference: [https://www.freecodecamp.org/news/writing-a-killer-software-engineer
 Reference: [https://www.beamjobs.com/resumes/product-manager-resume-examples#product-manager-resume](https://www.beamjobs.com/resumes/product-manager-resume-examples#product-manager-resume)
 
 
-## Advice for if you are continuously applying and not getting anything
+## Advice if you are continuously applying and not getting anything responses
 
 If you're continuously applying and not receiving responses, it's crucial to enhance the quality of your resume. Adding self-driven projects and seeking feedback for improvement can be effective.
 
