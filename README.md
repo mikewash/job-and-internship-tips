@@ -3,7 +3,7 @@
 This reference guide is for software engineers and product managers seeking internships or entry-level jobs.
 
 
-## Examples of good looking resumes
+## Examples of good looking resumes (Focus on the bullet points)
 
 For your resume's bullet points, emphasize the impact rather than merely listing tasks completed. What was the impact of your actions in the job?
 
