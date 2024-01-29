@@ -1,11 +1,11 @@
 # Job and Internship Tips
 
-This is reference is for software engineers and product managers to get internships or entry level jobs
+This reference guide is for software engineers and product managers seeking internships or entry-level jobs.
 
 
 ## Examples of good looking resumes
 
-For your bullets points on your resume focus on impact not just stuff you got done. What was the impact of what did you do at the job?
+For your resume's bullet points, emphasize the impact rather than merely listing tasks completed. What was the impact of your actions in the job?
 
 
 ### SWE Resume while in college
@@ -23,12 +23,10 @@ Reference: [https://www.freecodecamp.org/news/writing-a-killer-software-engineer
 Reference: [https://www.beamjobs.com/resumes/product-manager-resume-examples#product-manager-resume](https://www.beamjobs.com/resumes/product-manager-resume-examples#product-manager-resume)
 
 
-## Advice for if you are continuous applying and not getting anything
+## Advice for if you are continuously applying and not getting anything
 
-If you have applied to multiple jobs and not getting any responses you have to improve the quality of what you delivering in interviews
+If you're continuously applying and not receiving responses, it's crucial to enhance the quality of your resume. Adding self-driven projects and seeking feedback for improvement can be effective.
 
-
-If you have applied to multiple jobs and not getting any responses you need to improve the content of your resume. This can usually be done by adding self driven projects and getting your resume re-reviewed.
 
 ### Project Ideas
 [Project Ideas](https://arc.dev/developer-blog/programming-project-ideas/)
