@@ -47,3 +47,6 @@ If you have applied to multiple jobs and not passing the technical part of the i
 - Prep your “why do you want to work there” for whatever company it is
 - Come prepared with thoughtful relevant questions and ask them.
 - Provide details in your answers; make connections in your explanations
+
+## Career Paths for Tech
+[https://roadmap.sh](https://roadmap.sh) - Website for educational content for pursuing different paths in Software Engineering, Cyber Security, UX Design, Etc.
