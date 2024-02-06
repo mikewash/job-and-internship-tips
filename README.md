@@ -31,11 +31,14 @@ If you're continuously applying and not receiving responses, it's crucial to enh
 ### Project Ideas
 [Project Ideas](https://arc.dev/developer-blog/programming-project-ideas/)
 
+<hr>
 
 If you have applied to multiple jobs and not passing the technical part of the interview you need to at least do over 60 tech problems for SWE and for product management I don't have a magic number but I would keep studying til you get it and do mock interviews with a coach. 
 
 ### Leet Code Problems
 [Blind 75 LeetCode Questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
+
+<hr>
 
 ### PM Case Studies
 [50 Product Management Case Studies](https://blog.producter.co/50-product-management-case-studies/)
