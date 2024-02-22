@@ -53,3 +53,7 @@ If you have applied to multiple jobs and not passing the technical part of the i
 
 ## Career Paths for Tech
 [https://roadmap.sh](https://roadmap.sh) - Website for educational content for pursuing different paths in Software Engineering, Cyber Security, UX Design, Etc.
+
+
+## Collection of Internships for the Summer
+[Summer 2024 Tech Internships](https://github.com/SimplifyJobs/Summer2024-Internships)
