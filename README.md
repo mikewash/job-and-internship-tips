@@ -28,7 +28,13 @@ Reference: [https://www.beamjobs.com/resumes/product-manager-resume-examples#pro
 If you're continuously applying and not receiving responses, it's crucial to enhance the quality of your resume. Adding self-driven projects and seeking feedback for improvement can be effective.
 
 
-### Project Ideas
+### Project Ideas for PMs
+https://gopractice.io/skills/side-projects-to-enter-product-management/
+
+https://medium.com/productschool/the-secret-to-getting-a-job-in-product-management-side-projects-7ed955a2eec2
+
+
+### Project Ideas for Software Engineers
 [Project Ideas](https://arc.dev/developer-blog/programming-project-ideas/)
 
 <hr>
