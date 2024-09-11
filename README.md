@@ -62,4 +62,4 @@ If you have applied to multiple jobs and not passing the technical part of the i
 
 
 ## Collection of Internships for the Summer
-[Summer 2024 Tech Internships](https://github.com/SimplifyJobs/Summer2024-Internships)
+[Summer Tech Internships](https://github.com/SimplifyJobs/Summer2024-Internships)
